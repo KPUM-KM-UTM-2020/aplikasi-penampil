@@ -86,7 +86,7 @@
     <h2 class="text-center">Lihat Hasil Pemilihan</h2>
     <br>
     <button class="button"><a target="_blank" class="text-light" href="hasil_presma.php" style="font-size: 27px">Presma dan WaPresma</a></button>
-    <button class="button"><a class="text-light" target="_blank" href="hasil_dpm_fh.php">DPM-KM Dapil FH</a></button>
+    <button class="button"><a class="text-light" target="_blank" href="hasil_dpm_hukum.php">DPM-KM Dapil FH</a></button>
     <button class="button"><a target="_blank" class="text-light" href="hasil_dpm_feb.php">DPM-KM Dapil FEB</a></button>
     <button class="button"><a class="text-light" target="_blank" href="hasil_dpm_fp.php">DPM-KM Dapil FP</a></button>
     <button class="button"><a class="text-light" target="_blank" href="hasil_dpm_ft.php">DPM-KM Dapil FT</a></button>
